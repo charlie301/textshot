@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """ Take a screenshot and copy its text content to the clipboard. """
 
 import argparse
